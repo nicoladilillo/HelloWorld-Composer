@@ -1,11 +1,12 @@
 {
     "name": "root/app",
-    "description": "Simple Hello Word to try Composer.",
+    "description": "This is a simple \"Hello World\" example to try Composer",
     "authors": [
         {
             "name": "Nicola Dilillo",
             "email": "nicoladilillo98@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
