@@ -1,0 +1,11 @@
+{
+    "name": "root/app",
+    "description": "Simple Hello Word to try Composer.",
+    "authors": [
+        {
+            "name": "Nicola Dilillo",
+            "email": "nicoladilillo98@gmail.com"
+        }
+    ],
+    "require": {}
+}
